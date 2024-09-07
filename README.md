@@ -1,7 +1,7 @@
 <div align="center">  
 <!-- <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ParkYongHo&fontSize=90" /> -->
 <p>
-<h3>💻Want to be a <strong><i>Frontend Developer💻</i></strong></h3>
+<h3>💻Want to be a <strong><i>Frontend Developer</i></strong></h3>
 <br>
 
 <!--내용 부분-->
